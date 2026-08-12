@@ -1,12 +1,13 @@
-# MsDataHub 1.13
+# MsDataHub 1.12
 
-## MsDataHub 1.13.1
+## MsDataHub 1.12.1
 
-- Move Ai2025, OR11 and D19 files to Zenodo (10.5281/zenodo.21900721).
+- Move Ai2025, OR11 and D19 files to Zenodo
+  (10.5281/zenodo.21900721) - backported from devel.
 
-## MsDataHub 1.13.0
+## MsDataHub 1.12.0
 
-- New devel version.
+- New release 2.34.
 
 # MsDataHub 1.11
 
